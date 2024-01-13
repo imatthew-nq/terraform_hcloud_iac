@@ -1,4 +1,5 @@
-hcloud_token = "HCLOUD_API_TOKEN"
-image        = "ubuntu-20.04"
+hcloud_token = "abc"
+image        = "ubuntu-22.04"
 server_type  = "cx11"
-location     = "nbg1"
+location     = "hel1"
+networkid    = "3768661"
